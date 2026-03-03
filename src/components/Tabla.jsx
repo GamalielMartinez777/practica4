@@ -1,0 +1,12 @@
+
+function Tabla() {
+  return (
+    <>
+    <div>
+        <h1>Tabla</h1>
+    </div>
+    </>
+  )
+}
+
+export default Tabla
